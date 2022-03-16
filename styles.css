@@ -1,0 +1,61 @@
+        header {
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        background-color: blueviolet;
+    }
+    
+    h1 {
+        border: 70px solid;
+        text-shadow: 2px 2px;
+        color: maroon;
+    }
+    
+    p {
+        border: 1px solid;
+        padding: 10px;
+        box-shadow: 2px 2px;
+        color: black;
+    }
+    
+    h2 {
+        border: 10px solid;
+        text-shadow: 2px 2px;
+        text-align: center;
+        background-color: lightcoral;
+    }
+    
+    main {
+        border: 1px solid;
+        text-align: center;
+        background-color: crimson;
+    }
+    
+    .fa {
+        padding: 20px;
+        font-size: 30px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+    }
+    
+    .fa:hover: {
+        opacity: 0.7;
+    }
+    
+    .fa-twitter {
+        background: #5c82d3;
+        color: white;
+    }
+    
+    .fa-instagram {
+        background: #8a3ab9;
+        color: white;
+    }
+    
+    footer {
+        background-color: darkmagenta;
+    }
+    
+    div {
+        background-color: crimson;
